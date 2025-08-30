@@ -147,8 +147,6 @@ Achieve maximum throughput by:
 - Minimizing computation cycles for 512x512 MVM
 - Using out-of-context synthesis for best results
 
-**Scoring**: Teams ranked by throughput (cycles × frequency) for M=N=512
-
 ## 📋 Interface Specifications
 
 ### Top-Level Ports
