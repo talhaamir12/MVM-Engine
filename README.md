@@ -211,7 +211,6 @@ IDLE ──start──→ COMPUTE
 ## 📚 References
 
 - Microsoft BrainWave Architecture
-- ECE 327 Digital Hardware Systems Course
 - Xilinx UltraScale+ FPGA Documentation
 
 
